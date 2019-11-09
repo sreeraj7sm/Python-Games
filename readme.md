@@ -1,4 +1,4 @@
-# Python Simple Games 
+# Simple Python Games 
 This is my first repository on github and i am beginner in python (It's been 2 months since i started learning programming with python)
 
 The library that i have used is "random".
